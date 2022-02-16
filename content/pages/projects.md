@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 ---
@@ -101,7 +104,7 @@ Final, Ses #24
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_proj_final))
 {{< tdclose >}}
 

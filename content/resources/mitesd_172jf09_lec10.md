@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding mapping a prospective
   prize space.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fd4c5ad993a36549d2542c9932556ab1_MITESD_172JF09_Lec10.pdf
+file: /media/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fd4c5ad993a36549d2542c9932556ab1_MITESD_172JF09_Lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Mapping a prospective prize space
 uid: fd4c5ad9-93a3-6549-d254-2c9932556ab1

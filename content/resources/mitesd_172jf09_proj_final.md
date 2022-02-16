@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding final project assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f94e23c8a266ec986ec3897fa08e73c_MITESD_172JF09_proj_final.pdf
+file: /media/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f94e23c8a266ec986ec3897fa08e73c_MITESD_172JF09_proj_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ESD.172 Final Project Assignment
 uid: 1f94e23c-8a26-6ec9-86ec-3897fa08e73c
