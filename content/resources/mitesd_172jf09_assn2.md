@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1b0ed8a8-02b2-05e5-d530-01c089d4e3da
 resourcetype: Document
 title: Historic Prize Summary Assignment
 uid: 46b469fe-f61b-0b14-5ef9-4fcb7a3544f4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 resourcetype: Document
 title: ESD.172 Team Contracts
 uid: 15d9b742-d0a8-4819-7119-48d2734f47e6

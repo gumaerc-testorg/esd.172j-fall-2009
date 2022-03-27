@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a3f8d5-19d9-4f35-3310-82c7f93e0d53
 resourcetype: Document
 title: Mapping a prospective prize space
 uid: fd4c5ad9-93a3-6549-d254-2c9932556ab1

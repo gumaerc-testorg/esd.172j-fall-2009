@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 resourcetype: Document
 title: ESD.172 Project Midterm Assignment
 uid: d46508b1-f5d7-9ebf-1a33-e4cddc6478a2

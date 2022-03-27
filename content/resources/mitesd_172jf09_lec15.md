@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a3f8d5-19d9-4f35-3310-82c7f93e0d53
 resourcetype: Document
 title: Engagement strategies
 uid: 1f62d4d2-abc2-713a-b146-0212d0e65080

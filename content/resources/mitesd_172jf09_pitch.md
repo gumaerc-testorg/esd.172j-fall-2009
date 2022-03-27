@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 resourcetype: Document
 title: ESD.172 Elevator Pitch Assignment
 uid: 31156fed-64ef-caa0-b933-678a41239528

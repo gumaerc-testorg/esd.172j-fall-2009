@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a3f8d5-19d9-4f35-3310-82c7f93e0d53
 resourcetype: Document
 title: ESD.172 X PRIZE Introduction
 uid: 53cafeda-5cce-b503-118a-a4f1ed59ef20

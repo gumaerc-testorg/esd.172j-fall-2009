@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 233ed068-f0be-a341-9393-db2c69f61232
 resourcetype: Document
 title: Using Incentive Prizes to Drive Creativity, Innovation and Breakthroughs
 uid: 9d674da4-079b-92e6-5b7a-0b2c0186dbe9

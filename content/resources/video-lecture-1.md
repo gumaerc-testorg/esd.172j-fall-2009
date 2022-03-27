@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -9,6 +10,7 @@ related_resources_text: ''
 resource_index_text: <p>Lecture slides (<a title="Open in a new window." target="_blank"
   href="./resolveuid/d59dce9b3900ad29362e7c6731305eaa">PDF</a>)</p>
 resourcetype: Video
+start_time: ''
 title: Video Lecture
 uid: e0728f3a-97a7-1bad-2bd8-76bca0834ddb
 video_files:

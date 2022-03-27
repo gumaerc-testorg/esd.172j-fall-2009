@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a3f8d5-19d9-4f35-3310-82c7f93e0d53
 resourcetype: Document
 title: Incentivized Competitions and Prizes
 uid: f1f9c811-9aca-861c-0250-cfc6a9ff2de1

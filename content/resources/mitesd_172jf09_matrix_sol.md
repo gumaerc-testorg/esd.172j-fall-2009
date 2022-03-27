@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 resourcetype: Document
 title: ESD.172 prize matrix solutions
 uid: ced97be6-dc4b-048d-b912-1c3cc88f372a

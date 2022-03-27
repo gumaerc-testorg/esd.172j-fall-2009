@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d425ae9e-b9e4-bb95-95e4-5899a41fc668
 resourcetype: Document
 title: ESD.172 elevator pitch solutions
 uid: 93a06767-06aa-07aa-f339-d3caeae49cf2
