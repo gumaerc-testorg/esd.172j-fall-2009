@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides notes from selected lecture of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ LECTURE NOTES
 Prize history
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_172jf09_lec01))
+({{% resource_link 53cafeda-5cce-b503-118a-a4f1ed59ef20 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Prize history
 Prize literature review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_172jf09_lec02)) (Courtesy of Bhaskar Chakravorti. Used with permission.)
+({{% resource_link 5d7a8adb-1b03-0626-74ee-25a168d7555c "PDF - 1.1MB" %}}) (Courtesy of Bhaskar Chakravorti. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Prize literature review
 Prize space analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_172jf09_lec10))
+({{% resource_link fd4c5ad9-93a3-6549-d254-2c9932556ab1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Prize space analysis
 US Department of Energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_172jf09_lec11)) (Courtesy of Steve Isakowitz. Used with permission.)
+({{% resource_link f1f9c811-9aca-861c-0250-cfc6a9ff2de1 "PDF - 1.1MB" %}}) (Courtesy of Steve Isakowitz. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ US Department of Energy
 Engagement strategies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_172jf09_lec15))
+({{% resource_link 1f62d4d2-abc2-713a-b146-0212d0e65080 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

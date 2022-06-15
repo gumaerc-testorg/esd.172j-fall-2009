@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 related_resources_text: ''
@@ -25,3 +26,6 @@ video_metadata:
 **Topics covered:** Lecture 15: Engagement strategies
 
 **Instructor:** Erika Wagner
+
+
+

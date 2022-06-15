@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the course assignments, key dates,
+  and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -55,9 +57,9 @@ Due: one day after Ses #1
 
 1-slide summary of a modern or historical incentive prize
 
-Assignment instructions ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_assn2))
+Assignment instructions ({{% resource_link 46b469fe-f61b-0b14-5ef9-4fcb7a3544f4 "PDF" %}})
 
-Student solutions ([PDF]({{< baseurl >}}/resources/mitesd_172jf09_assn2_sol)) (All student work is used with permission.)
+Student solutions ({{% resource_link 195a2aad-8782-b3b0-89f3-af6ad7ea566a "PDF" %}}) (All student work is used with permission.)
 
 
 {{< tdclose >}}

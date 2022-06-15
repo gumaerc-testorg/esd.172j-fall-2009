@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding incentivized competitions
   and prizes.
-file: /media/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/f1f9c8119aca861c0250cfc6a9ff2de1_MITESD_172JF09_Lec11.pdf
+file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/f1f9c8119aca861c0250cfc6a9ff2de1_MITESD_172JF09_Lec11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Incentivized Competitions and Prizes
 uid: f1f9c811-9aca-861c-0250-cfc6a9ff2de1
 ---
+This resource contains the information regarding incentivized competitions and prizes.
+
