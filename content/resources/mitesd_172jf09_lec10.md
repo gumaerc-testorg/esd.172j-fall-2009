@@ -6,6 +6,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mapping a prospective prize space
 uid: fd4c5ad9-93a3-6549-d254-2c9932556ab1
 ---
 This resource contains the information regarding mapping a prospective prize space.
-

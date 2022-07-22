@@ -6,6 +6,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/5d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Open Innovation: Case Not Quite Closed'
 uid: 5d7a8adb-1b03-0626-74ee-25a168d7555c
 ---
 This resource contains the information regarding open innovation: case not quite closed.
-

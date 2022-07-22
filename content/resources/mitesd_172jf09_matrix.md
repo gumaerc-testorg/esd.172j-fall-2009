@@ -5,6 +5,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ESD.172 Prize Matrix Template
 uid: fbf53e20-fb65-3659-2626-cc06aac045c8
 ---
 This resource contains the information regarding prize matrix template.
-

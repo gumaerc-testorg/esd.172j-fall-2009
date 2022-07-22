@@ -5,6 +5,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/53
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ESD.172 X PRIZE Introduction
 uid: 53cafeda-5cce-b503-118a-a4f1ed59ef20
 ---
 This resource contains the information regarding ESD.172 X pRIZE introduction.
-

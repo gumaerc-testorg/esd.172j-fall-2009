@@ -5,6 +5,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ESD.172 Final Project Assignment
 uid: 1f94e23c-8a26-6ec9-86ec-3897fa08e73c
 ---
 This resource contains the information regarding final project assignment.
-

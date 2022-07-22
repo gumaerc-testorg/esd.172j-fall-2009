@@ -5,6 +5,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/93
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ESD.172 elevator pitch solutions
 uid: 93a06767-06aa-07aa-f339-d3caeae49cf2
 ---
 This resource contains the information regarding elevator pitch solutions.
-

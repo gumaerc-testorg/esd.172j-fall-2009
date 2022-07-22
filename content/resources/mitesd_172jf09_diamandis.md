@@ -6,6 +6,7 @@ file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/9d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Using Incentive Prizes to Drive Creativity, Innovation and Breakthroughs
 uid: 9d674da4-079b-92e6-5b7a-0b2c0186dbe9
 ---
 This resource contains the information regarding using incentive prizes to drive creativity, innovation and breakthroughs.
-
