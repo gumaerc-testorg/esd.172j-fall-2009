@@ -44,8 +44,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Videos",
+    "Design Assignments with Examples"
   ],
-  "site_uid": "3f177c83-e9e3-4c40-814f-a0d0be8e7015",
+  "site_uid": "bee56533-a938-4e37-a69a-51ac7c60c892",
+  "site_short_id": "esd.172j-fall-2009",
   "title": "Course Metadata"
 }
