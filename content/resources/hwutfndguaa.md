@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/ffa3deb2fc1b8945086bb92628ca0336_hwUTfNdgUaA.srt
+file_size: 104448
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
