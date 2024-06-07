@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Historic Prize Summary
   Assignment.
 file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/46b469fef61b0b145ef94fcb7a3544f4_MITESD_172JF09_assn2.pdf
+file_size: 97547
 file_type: application/pdf
 learning_resource_types:
 - Assignments

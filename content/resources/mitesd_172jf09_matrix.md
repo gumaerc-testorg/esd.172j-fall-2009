@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding prize matrix template.
 file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fbf53e20fb6536592626cc06aac045c8_MITESD_172JF09_matrix.pdf
+file_size: 61042
 file_type: application/pdf
 learning_resource_types:
 - Projects
