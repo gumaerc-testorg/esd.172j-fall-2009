@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding elevator pitch solutions.
 file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/93a0676706aa07aaf339d3caeae49cf2_MITESD_172JF09_pitch_sol.pdf
+file_size: 598166
 file_type: application/pdf
 learning_resource_types:
 - Projects
