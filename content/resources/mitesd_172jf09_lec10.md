@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding mapping a prospective
   prize space.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fd4c5ad993a36549d2542c9932556ab1_MITESD_172JF09_Lec10.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/fd4c5ad993a36549d2542c9932556ab1_MITESD_172JF09_Lec10.pdf
 file_size: 617447
 file_type: application/pdf
 learning_resource_types:
