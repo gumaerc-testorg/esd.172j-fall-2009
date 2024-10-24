@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ESD.172 X pRIZE introduction.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/53cafeda5cceb503118aa4f1ed59ef20_MITESD_172JF09_Lec01.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/53cafeda5cceb503118aa4f1ed59ef20_MITESD_172JF09_Lec01.pdf
 file_size: 1168084
 file_type: application/pdf
 learning_resource_types:

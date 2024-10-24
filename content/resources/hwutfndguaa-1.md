@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on strategies to engage the media and public
   for promoting an X Prize.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/0aa2affdd726f6a580a397cc30a9bf29_hwUTfNdgUaA.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/0aa2affdd726f6a580a397cc30a9bf29_hwUTfNdgUaA.pdf
 file_size: 121332
 file_type: application/pdf
 learning_resource_types: []
