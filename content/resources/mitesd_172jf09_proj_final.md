@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding final project assignment.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f94e23c8a266ec986ec3897fa08e73c_MITESD_172JF09_proj_final.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f94e23c8a266ec986ec3897fa08e73c_MITESD_172JF09_proj_final.pdf
 file_size: 169987
 file_type: application/pdf
 learning_resource_types:

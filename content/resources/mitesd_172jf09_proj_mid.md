@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding project midterm assignment.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/d46508b1f5d79ebf1a33e4cddc6478a2_MITESD_172JF09_proj_mid.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/d46508b1f5d79ebf1a33e4cddc6478a2_MITESD_172JF09_proj_mid.pdf
 file_size: 168900
 file_type: application/pdf
 learning_resource_types:

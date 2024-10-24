@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/a16aef73d3db5fa6afaa1555ba3eff59_hwUTfNdgUaA.vtt
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/a16aef73d3db5fa6afaa1555ba3eff59_hwUTfNdgUaA.vtt
 file_size: 98518
 file_type: application/x-subrip
 learning_resource_types: []
