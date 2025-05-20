@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding incentivized competitions
   and prizes.
-file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/f1f9c8119aca861c0250cfc6a9ff2de1_MITESD_172JF09_Lec11.pdf
+file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/f1f9c8119aca861c0250cfc6a9ff2de1_MITESD_172JF09_Lec11.pdf
 file_size: 1113716
 file_type: application/pdf
 learning_resource_types:
