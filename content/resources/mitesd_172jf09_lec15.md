@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding engagement strategies.
-file: /courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f62d4d2abc2713ab1460212d0e65080_MITESD_172JF09_Lec15.pdf
+file: /ol-ocw-studio-app/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/1f62d4d2abc2713ab1460212d0e65080_MITESD_172JF09_Lec15.pdf
 file_size: 478341
 file_type: application/pdf
 learning_resource_types:
