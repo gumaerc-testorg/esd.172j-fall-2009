@@ -125,8 +125,8 @@ Ses #24
 
 As part of the final presentations, students created 1-2 minute video pitches for their project concept.
 
-xprize. "Rural Power for Emerging Economies." February 5, 2010. YouTube. Accessed June 3, 2010. [http://www.youtube.com/watch?v=SiIOAd6hXUI](http://www.youtube.com/watch?v=SiIOAd6hXUI)
+xprize. "Rural Power for Emerging Economies." February 5, 2010. YouTube. Accessed June 3, 2010. {{% resource_link "637002b3-a49f-45aa-aa5c-3ae869af7ceb" "http://www.youtube.com/watch?v=SiIOAd6hXUI" %}}
 
-xprize. "Home Scale Energy Storage." February 5, 2010. YouTube. Accessed June 3, 2010. [http://www.youtube.com/watch?v=GX5KcIkVxpE](http://www.youtube.com/watch?v=GX5KcIkVxpE)
+xprize. "Home Scale Energy Storage." February 5, 2010. YouTube. Accessed June 3, 2010. {{% resource_link "382bfd5f-c369-4ad4-a5be-b12a83e4fb00" "http://www.youtube.com/watch?v=GX5KcIkVxpE" %}}
 
-xprize. "REStore for Grid-scale Storage." February 5, 2010. YouTube. Accessed June 3, 2010. [http://www.youtube.com/watch?v=AtOrWKLQUvI](http://www.youtube.com/watch?v=AtOrWKLQUvI)
+xprize. "REStore for Grid-scale Storage." February 5, 2010. YouTube. Accessed June 3, 2010. {{% resource_link "c5d95da2-49bf-4df2-a1a8-69865c8e77a3" "http://www.youtube.com/watch?v=AtOrWKLQUvI" %}}
